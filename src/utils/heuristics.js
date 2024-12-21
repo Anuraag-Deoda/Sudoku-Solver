@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 export const findBestCell = (grid, size) => {
     let minPossibilities = size + 1;
     let bestCell = null;

@@ -1,3 +1,5 @@
+/* eslint-disable no-unused-vars */
+/* eslint-disable react/prop-types */
 import { motion } from 'framer-motion';
 // Controls.jsx
 const Controls = ({ 

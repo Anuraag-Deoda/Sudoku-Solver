@@ -51,9 +51,6 @@ const EXAMPLE_PUZZLES = {
     [8, 0, 0, 0, 0, 9, 0, 0, 0]
   ],
   16: [
-    Array(16).fill().map(() => Array(16).fill(0)), // Initial placeholder example
-    
-    // Example with some values filled
     [
       [0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 1, 0],
       [0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 7, 0, 0, 0, 0, 0],
